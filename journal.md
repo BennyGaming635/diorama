@@ -13,3 +13,10 @@ Did the sides (both long and short) today and the baseboard which will have the 
 ![The baseboard](/image/baseboard.png)
 
 **Total time spent: 0.5h**
+
+# May 3rd: Beginning the wiring (digitally)
+This afternoon, I used TinkerCAD to design the arduino and the circuitry and ended up using 4 LEDs, 4 resistors and two Micro Servos so far. I did notice an issue with my circuitry where the lights would 'freeze' during movement in the servo but I'll probably end up asking my Design and Tech teacher when I see him next since he knows a lot.
+
+[Timelapse - Lapse](https://lapse.hackclub.com/timelapse/wW51XTgzdraX)
+
+![Screenshot of the circuitry](/image/arduino.png)
