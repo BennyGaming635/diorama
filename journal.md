@@ -20,3 +20,9 @@ This afternoon, I used TinkerCAD to design the arduino and the circuitry and end
 [Timelapse - Lapse](https://lapse.hackclub.com/timelapse/wW51XTgzdraX)
 
 ![Screenshot of the circuitry](/image/arduino.png)
+
+# May 5th: 3D Modelling a Dinosaur and the fences
+Today I decided to get more 3d modelling done, so I made the three types of fences/gates (Which are the regular fence, a fence for lights and a gate (slot for  a SG90)). When I was modelling the dinosaur I tried using the built-in tool for this stuff in Fusion 360 which I quickly became frustrated with and then gave up, to which I have Blender a go and that didn't work, so the dinosaur (named Wompy) is now in his 3rd (and final) form/evolution where he is a long extruded thingi (shown in the picture) with a slot for the SG90 at the bottom on his rear feet. The slot for the SG90 will be glued into place as I was unable to find good dimensions online but I had found [this](https://www.printables.com/model/727559-servo-sg90-and-arm/files) online via Printables.com. I would like to give credit to @Auri3D and request that this SG90 model be attributed to him. Lastly I did end up asking my Design & Tech teacher about the circuitry issue from May 3rd (second post) and he said to just simply run two batterie (one for Arduino, one for the servos (now that I think about it, that would of made a lot of sense)). Anyways here's the timelapse and the screenshot :3
+[Timelapse - Lapse](https://lapse.hackclub.com/timelapse/eBiExtvNefuP)
+
+![Screenshot of models (To be 3D Printed)](/image/dino3d.png)
