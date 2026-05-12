@@ -30,3 +30,9 @@ Today I decided to get more 3d modelling done, so I made the three types of fenc
 ![Screenshot of models (To be 3D Printed)](/image/dino3d.png)
 
 **Total time spent: 0.9h**
+
+# May 12th: Soldering
+Ok, so today I spent an painful hour doing some soldering for my 4 LEDs which are present in this project. Essentially it involved the use of 8 wires and 12 soldering jobs (which I didn't do very well). Anyways um yeah. Not much today.
+[Timelapse - Lapse](https://lapse.hackclub.com/timelapse/KpzdYMViou5z)
+
+**Total time spent: 1h**
